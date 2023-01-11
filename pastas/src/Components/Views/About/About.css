@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    justify-content: left;
+    padding: 30px;
+}
+
+.img-container{
+    height: 100%;
+}
+
+h1{
+    align-self: center;
+    justify-self: center;
+}
